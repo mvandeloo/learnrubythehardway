@@ -1,0 +1,7 @@
+def f(a,b)
+ puts "modulo"
+a % b
+end
+
+c = 5
+f(c,1)
